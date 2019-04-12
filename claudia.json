@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "BotCountDownEndpoint-executor",
+    "name": "BotCountDownEndpoint",
+    "region": "eu-west-3"
+  },
+  "api": {
+    "id": "zmbi9uqn29"
+  }
+}
